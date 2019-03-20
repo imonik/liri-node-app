@@ -39,6 +39,8 @@ function performActions(answer) {
     let arr =  answer.split(" ");
     let action  = arr[0].toLowerCase();
     let criteria = arr.slice(1).join(" ");
+    logSearch("----------------------------------------------------------\n");
+
     logSearch("\n" + answer + "\n");
 
     switch (action) {               
