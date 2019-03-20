@@ -15,7 +15,7 @@ With this app you can perform the following options:
 
  You can see a demo video here: [demo](https://youtu.be/J8pbBSlNpuA)
 
-###Additional Libraries:
+### Additional Libraries:
 *ReadLine*
 
 Readline allows reading of a stream (such as process.stdin) on a line-by-line basis.
